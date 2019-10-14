@@ -2,7 +2,7 @@
 
 ## ignore option issue
 
-This command excludes only the node_module folder, even the module folder.
+This command excludes only the `node_module` folder, even the `module` folder.
 
 ```sh
 tree -l 2 --ignore "node_modules"
