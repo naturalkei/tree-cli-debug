@@ -11,5 +11,5 @@ tree -l 2 tree -l 2 --ignore "node_modules"
 ## clone & test
 
 ```sh
-git clone https://github.com/Euiyeon/tree-cli-debug && yarn && yarn test
+git clone https://github.com/Euiyeon/tree-cli-debug && cd tree-cli-debug && yarn && yarn test
 ```
