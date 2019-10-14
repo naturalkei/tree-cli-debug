@@ -5,7 +5,7 @@
 This command excludes only the node_module folder, even the module folder.
 
 ```sh
-tree -l 2 tree -l 2 --ignore "node_modules"
+tree -l 2 --ignore "node_modules"
 ```
 
 ## clone & test
