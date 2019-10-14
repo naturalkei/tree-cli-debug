@@ -1,0 +1,14 @@
+{
+  "name": "tree-cli-debug",
+  "version": "1.0.0",
+  "description": "tree-cli-debug",
+  "main": "index.js",
+  "scripts": {
+    "test": "tree -l 2 --ignore \"node_modules\""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tree-cli": "^0.5.3"
+  }
+}
